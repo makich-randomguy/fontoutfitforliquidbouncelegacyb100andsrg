@@ -1,6 +1,7 @@
 # fontoutfitforliquidbouncelegacyb100andsrg
 files for work lb legacy b100
 
+and files not for lb legacy b100
 
 files from
 
